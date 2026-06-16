@@ -718,5 +718,182 @@
         "question": "Think back to the 80s: What or who matches this description? -> The stylish crime series starring Don Johnson as Sonny Crockett wearing pastel suits. (Q-19)",
         "correct": "Miami Vice",
         "answers": ["Magnum, P.I.", "Knight Rider", "The A-Team", "Miami Vice"]
-    }
+    },
+  {
+    "id": 501,
+    "category": "Movies",
+    "question": "What was the name of the fictional town where the movie 'Footloose' took place?",
+    "correct": "Bomont",
+    "answers": ["Bomont", "Shermer", "Hill Valley", "Dillon"]
+  },
+  {
+    "id": 502,
+    "category": "Movies",
+    "question": "In 'The Breakfast Club', which character was known as 'The Brain'?",
+    "correct": "Brian Johnson",
+    "answers": ["Brian Johnson", "Andrew Clark", "John Bender", "Claire Standish"]
+  },
+  {
+    "id": 503,
+    "category": "Movies",
+    "question": "Who played the role of Indiana Jones' father in 'The Last Crusade'?",
+    "correct": "Sean Connery",
+    "answers": ["Sean Connery", "Christopher Lee", "Ian McKellen", "Michael Caine"]
+  },
+  {
+    "id": 504,
+    "category": "Movies",
+    "question": "What 1988 film featured Bruce Willis as John McClane in a skyscraper?",
+    "correct": "Die Hard",
+    "answers": ["Die Hard", "Lethal Weapon", "Commando", "Predator"]
+  },
+  {
+    "id": 505,
+    "category": "Movies",
+    "question": "Which 1987 film featured the line: 'Nobody puts Baby in a corner'?",
+    "correct": "Dirty Dancing",
+    "answers": ["Dirty Dancing", "Flashdance", "Footloose", "Grease 2"]
+  },
+  {
+    "id": 506,
+    "category": "Movies",
+    "question": "In 'Top Gun', what was Maverick's real name?",
+    "correct": "Pete Mitchell",
+    "answers": ["Pete Mitchell", "Nick Bradshaw", "Tom Kazansky", "Mike Metcalf"]
+  },
+  {
+    "id": 507,
+    "category": "Movies",
+    "question": "Who directed the 1982 classic 'E.T. the Extra-Terrestrial'?",
+    "correct": "Steven Spielberg",
+    "answers": ["Steven Spielberg", "George Lucas", "James Cameron", "John Carpenter"]
+  },
+  {
+    "id": 508,
+    "category": "Music",
+    "question": "Which band released the hit single 'Hungry Like the Wolf' in 1982?",
+    "correct": "Duran Duran",
+    "answers": ["Duran Duran", "The Police", "Culture Club", "Wham!"]
+  },
+  {
+    "id": 509,
+    "category": "Music",
+    "question": "Who sang the 1983 hit 'Girls Just Want to Have Fun'?",
+    "correct": "Cyndi Lauper",
+    "answers": ["Cyndi Lauper", "Madonna", "Pat Benatar", "Joan Jett"]
+  },
+  {
+    "id": 510,
+    "category": "Music",
+    "question": "Which album by U2 was released in 1987 and features 'With or Without You'?",
+    "correct": "The Joshua Tree",
+    "answers": ["The Joshua Tree", "War", "The Unforgettable Fire", "Rattle and Hum"]
+  },
+  {
+    "id": 511,
+    "category": "Music",
+    "question": "What was the name of the first music video played on MTV in 1981?",
+    "correct": "Video Killed the Radio Star",
+    "answers": ["Video Killed the Radio Star", "Billie Jean", "Take On Me", "Money for Nothing"]
+  },
+  {
+    "id": 512,
+    "category": "Music",
+    "question": "In 1985, which mega-event featured simultaneous concerts in London and Philadelphia?",
+    "correct": "Live Aid",
+    "answers": ["Live Aid", "Farm Aid", "USA for Africa", "Band Aid"]
+  },
+  {
+    "id": 513,
+    "category": "Television",
+    "question": "In the TV show 'Cheers', what was the name of the bar owner played by Ted Danson?",
+    "correct": "Sam Malone",
+    "answers": ["Sam Malone", "Cliff Clavin", "Norm Peterson", "Frasier Crane"]
+  },
+  {
+    "id": 514,
+    "category": "Television",
+    "question": "Which 80s detective show featured a protagonist with a signature red Ferrari?",
+    "correct": "Magnum, P.I.",
+    "answers": ["Magnum, P.I.", "Miami Vice", "MacGyver", "Simon & Simon"]
+  },
+  {
+    "id": 515,
+    "category": "Television",
+    "question": "What was the name of the detective agency in 'Moonlighting'?",
+    "correct": "Blue Moon",
+    "answers": ["Blue Moon", "Hart to Hart", "Remington Steele", "Simon & Simon"]
+  },
+  {
+    "id": 516,
+    "category": "Pop Culture",
+    "question": "Which puzzle toy was invented in 1974 but became a global craze in 1980?",
+    "correct": "Rubik's Cube",
+    "answers": ["Rubik's Cube", "Simon", "Tamagotchi", "Tetris"]
+  },
+  {
+    "id": 517,
+    "category": "Pop Culture",
+    "question": "What was the name of the first space shuttle to orbit Earth in 1981?",
+    "correct": "Columbia",
+    "answers": ["Columbia", "Challenger", "Discovery", "Atlantis"]
+  },
+  {
+    "id": 518,
+    "category": "Pop Culture",
+    "question": "Which toy line featured 'the power of Grayskull'?",
+    "correct": "Masters of the Universe",
+    "answers": ["Masters of the Universe", "G.I. Joe", "Thundercats", "SilverHawks"]
+  },
+  {
+    "id": 519,
+    "category": "Sports",
+    "question": "Which country hosted the 1984 Summer Olympics?",
+    "correct": "United States",
+    "answers": ["United States", "Soviet Union", "South Korea", "Spain"]
+  },
+  {
+    "id": 520,
+    "category": "Sports",
+    "question": "Who won the FIFA World Cup in 1986, famous for the 'Hand of God' goal?",
+    "correct": "Argentina",
+    "answers": ["Argentina", "West Germany", "Brazil", "Italy"]
+  },
+  {
+    "id": 521,
+    "category": "Movies",
+    "question": "What was the name of the Mogwai in the 1984 film 'Gremlins'?",
+    "correct": "Gizmo",
+    "answers": ["Gizmo", "Stripe", "Brain", "Daffy"]
+  },
+  {
+    "id": 522,
+    "category": "Music",
+    "question": "Which band's drummer, Rick Allen, continued to play after losing an arm in 1984?",
+    "correct": "Def Leppard",
+    "answers": ["Def Leppard", "Motley Crue", "Iron Maiden", "Poison"]
+  },
+  {
+    "id": 523,
+    "category": "Television",
+    "question": "What was the name of the talking car in 'Knight Rider'?",
+    "correct": "KITT",
+    "answers": ["KITT", "CARR", "HAL", "ED-209"]
+  },
+  {
+    "id": 524,
+    "category": "Pop Culture",
+    "question": "Which video game, released in 1980, featured a yellow character eating dots?",
+    "correct": "Pac-Man",
+    "answers": ["Pac-Man", "Donkey Kong", "Space Invaders", "Frogger"]
+  },
+  {
+    "id": 525,
+    "category": "Movies",
+    "question": "In 'The Karate Kid', what is the name of the dojo where Johnny Lawrence trains?",
+    "correct": "Cobra Kai",
+    "answers": ["Cobra Kai", "Miyagi-Do", "Eagle Fang", "Top Dojo"]
+  }
 ]
+
+
